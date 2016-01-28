@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:b7ba9228-3387-4528-a64b-7180ddc10511'
+inLanguage: null
+starred: false
+keywords: []
 description: Skanderbeg. TV series.
+datePublished: '2016-01-28T18:11:22.825Z'
+dateModified: '2016-01-16T17:43:01.036Z'
 author: []
-datePublished: '2016-01-14T18:56:25.099Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Skanderbeg. TV series. '
-dateModified: '2016-01-14T18:53:39.229Z'
 sourcePath: _posts/2016-01-14-skanderbeg-tv-series.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: skanderbeg-tv-series/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
